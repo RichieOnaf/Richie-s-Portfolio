@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color: white;
+    padding: 0px 160px;
+}
+.body1{
+    background-color: black ;
+    padding: 100px;
+    height: 80vh;
+
+}
+.body2{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 70%;
+    border-radius: 20px;
+    position: relative;
+    padding: 20px;
+    /* display: flex; */
+    width: 80%;
+}
+h2{
+    margin-top: 5px;
+    border: none;
+    display: flex;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 300px;
+    
+}
+
